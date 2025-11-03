@@ -45,6 +45,7 @@ project:
         - file: content/lessons/0_setup.md
         - file: content/lessons/1_firstedit.md
         - file: content/lessons/2_nextstep.md
+        - file: content/lessons/newfile.md
           children:
             - file: content/lessons/2a_plugins.md
         - file: content/lessons/reuse.md
